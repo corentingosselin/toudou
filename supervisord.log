@@ -1,0 +1,64 @@
+2021-02-22 15:43:06,047 INFO Set uid to user 0 succeeded
+2021-02-22 15:43:06,053 INFO supervisord started with pid 16
+2021-02-22 15:43:07,057 INFO spawned: 'php' with pid 18
+2021-02-22 15:43:08,060 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-22 15:45:36,353 INFO Set uid to user 0 succeeded
+2021-02-22 15:45:36,358 INFO supervisord started with pid 9
+2021-02-22 15:45:37,363 INFO spawned: 'php' with pid 11
+2021-02-22 15:45:38,373 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-22 15:55:50,928 INFO Set uid to user 0 succeeded
+2021-02-22 15:55:50,933 INFO supervisord started with pid 10
+2021-02-22 15:55:51,935 INFO spawned: 'php' with pid 12
+2021-02-22 15:55:52,945 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-22 18:19:46,700 INFO Set uid to user 0 succeeded
+2021-02-22 18:19:46,706 INFO supervisord started with pid 10
+2021-02-22 18:19:47,713 INFO spawned: 'php' with pid 12
+2021-02-22 18:19:48,715 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-22 19:49:57,513 INFO Set uid to user 0 succeeded
+2021-02-22 19:49:57,520 INFO supervisord started with pid 8
+2021-02-22 19:49:58,524 INFO spawned: 'php' with pid 10
+2021-02-22 19:49:59,534 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-22 22:33:39,053 INFO Set uid to user 0 succeeded
+2021-02-22 22:33:39,059 INFO supervisord started with pid 9
+2021-02-22 22:33:40,064 INFO spawned: 'php' with pid 11
+2021-02-22 22:33:41,075 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-23 10:45:06,592 INFO Set uid to user 0 succeeded
+2021-02-23 10:45:06,604 INFO supervisord started with pid 10
+2021-02-23 10:45:07,608 INFO spawned: 'php' with pid 12
+2021-02-23 10:45:08,610 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-28 12:18:59,454 INFO Set uid to user 0 succeeded
+2021-02-28 12:18:59,463 INFO supervisord started with pid 8
+2021-02-28 12:19:00,469 INFO spawned: 'php' with pid 10
+2021-02-28 12:19:01,474 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-03-08 19:29:41,294 INFO Set uid to user 0 succeeded
+2021-03-08 19:29:41,304 INFO supervisord started with pid 9
+2021-03-08 19:29:42,280 INFO spawned: 'php' with pid 11
+2021-03-08 19:29:43,284 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-03-08 22:13:04,935 INFO Set uid to user 0 succeeded
+2021-03-08 22:13:04,940 INFO supervisord started with pid 11
+2021-03-08 22:13:05,944 INFO spawned: 'php' with pid 13
+2021-03-08 22:13:06,948 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-03-08 22:26:50,771 INFO Set uid to user 0 succeeded
+2021-03-08 22:26:50,776 INFO supervisord started with pid 9
+2021-03-08 22:26:51,779 INFO spawned: 'php' with pid 11
+2021-03-08 22:26:52,782 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-03-09 15:14:54,302 INFO Set uid to user 0 succeeded
+2021-03-09 15:14:54,309 INFO supervisord started with pid 9
+2021-03-09 15:14:55,282 INFO spawned: 'php' with pid 11
+2021-03-09 15:14:56,305 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-03-09 15:22:01,268 INFO Set uid to user 0 succeeded
+2021-03-09 15:22:01,275 INFO supervisord started with pid 8
+2021-03-09 15:22:02,279 INFO spawned: 'php' with pid 10
+2021-03-09 15:22:03,283 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-03-09 16:59:50,414 INFO Set uid to user 0 succeeded
+2021-03-09 16:59:50,421 INFO supervisord started with pid 9
+2021-03-09 16:59:51,428 INFO spawned: 'php' with pid 11
+2021-03-09 16:59:52,430 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-03-09 23:34:12,648 INFO Set uid to user 0 succeeded
+2021-03-09 23:34:12,655 INFO supervisord started with pid 17
+2021-03-09 23:34:13,657 INFO spawned: 'php' with pid 19
+2021-03-09 23:34:14,660 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-03-10 11:52:13,925 INFO Set uid to user 0 succeeded
+2021-03-10 11:52:13,932 INFO supervisord started with pid 10
+2021-03-10 11:52:14,935 INFO spawned: 'php' with pid 12
+2021-03-10 11:52:15,938 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
